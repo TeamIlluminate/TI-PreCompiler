@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/build",
+  "command": "/usr/bin/c++      -o CMakeFiles/TI-PreCompiler.exec.dir/src/main.cpp.o -c /home/nex/Документы/Work/TI-Engine/TI-PreCompiler/src/main.cpp",
+  "file": "/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/src/main.cpp"
+}
+]

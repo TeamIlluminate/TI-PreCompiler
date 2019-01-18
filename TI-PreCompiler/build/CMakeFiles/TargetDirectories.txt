@@ -1,0 +1,6 @@
+/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/build/CMakeFiles/rebuild_cache.dir
+/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/build/CMakeFiles/edit_cache.dir
+/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/build/CMakeFiles/TI-PreCompiler.exec.dir
+/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/build/CMakeFiles/package_source.dir
+/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/build/CMakeFiles/package.dir
+/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/build/CMakeFiles/test.dir

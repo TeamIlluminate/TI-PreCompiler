@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nex/Документы/Work/TI-Engine/TI-PreCompiler/src/main.cpp
+iostream
+-
+experimental/filesystem
+-
+fstream
+-
+ostream
+-
+list
+-
+algorithm
+-
+string
+-
+
